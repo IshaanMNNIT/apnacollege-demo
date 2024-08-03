@@ -1,4 +1,5 @@
 # apnacollege-demo
 First Github Repositories.
 <br>
-Author - Ishaan Singh
+Author - Ishaan Singh MNNIT Prayagraj
+
